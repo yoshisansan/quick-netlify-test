@@ -26,3 +26,4 @@ This starter uses [Bulma](https://bulma.io/) so you can edit `src/style/variable
 - [x] WordPress pages in menu
 - [ ] Tags page
 - [ ] Categories page
+# quick-netlify-test
